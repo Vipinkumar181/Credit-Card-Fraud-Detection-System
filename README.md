@@ -29,7 +29,7 @@ A machine learning-based system for detecting fraudulent credit card transaction
 
 
 ## Dataset
-The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). It contains anonymized credit card transactions with features scaled to preserve confidentiality.
+The dataset used is the [Credit Card Fraud Detection Dataset](https://github.com/Vipinkumar181/Credit-Card-Fraud-Detection-System.git). It contains anonymized credit card transactions with features scaled to preserve confidentiality.
 
 ## Installation
 1. Clone the repository:
